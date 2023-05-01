@@ -14,7 +14,7 @@ This is a simple web app that allows you to upload an image and perform various 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/image-processor.git`
+1. Clone the repository: `git clone https://github.com/zmusaddique/image-processor-project.git`
 2. Install the required packages: `pip3 install -r requirements.txt`
 3. Run the app: `python3 main.py`
 
