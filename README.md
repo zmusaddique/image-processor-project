@@ -8,9 +8,9 @@ This is a simple web app that allows you to upload an image and perform various 
 
 ## Screenshots
 
-![Screenshot (before)](/static/Screenshot_from_2023-05-01_11-30-41.png)
+![Screenshot (before)](/uploads/child-g8af2659c9_1920.jpg)
 
-![Screenshot (after)](/static/Screenshot_from_2023-05-01_11-30-41.png)
+![Screenshot (after)](/static/child-g8af2659c9_1920.jpg)
 
 ## Installation
 
